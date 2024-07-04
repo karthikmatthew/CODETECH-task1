@@ -1,13 +1,8 @@
 **Name** A KARTHIK
-
 **company** CODETECH IT SOLUTIONS
-
 **ID** CT12DS1554
-
 **Domain** JAVA
-
 **Duration** July TO Sepetember 2024
-
 **Mentor** SANTHOSH KUMAR
 
 
