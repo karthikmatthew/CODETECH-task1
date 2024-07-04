@@ -22,7 +22,7 @@ user.
 - **Display a menu**: Show a menu to the user, prompting them to select an operation (e.g., addition, subtraction, multiplication, or division).
 - **Perform the operation**: Depending on the user’s choice, use a switch case to perform the corresponding arithmetic operation.
   ### Technologies Used
-  _ **JAVA**: The primary programming language for simple calculator.
+- **JAVA**: The primary programming language for simple calculator.
   - **Input**: Use the Scanner class to read two numbers from the user.
 Operator: Prompt the user to enter an operator (+, -, *, or /).
 - **Calculation**: Based on the operator, perform the corresponding arithmetic operation (addition, subtraction, multiplication, or division).
