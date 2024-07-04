@@ -1,8 +1,13 @@
 **Name** A KARTHIK
+
 **company** CODETECH IT SOLUTIONS
+
 **ID** CT12DS1554
+
 **Domain** JAVA
+
 **Duration** July TO Sepetember 2024
+
 **Mentor** SANTHOSH KUMAR
 
 
@@ -23,7 +28,7 @@ user.
 - **Perform the operation**: Depending on the user’s choice, use a switch case to perform the corresponding arithmetic operation.
   ### Technologies Used
 - **JAVA**: The primary programming language for simple calculator.
-  - **Input**: Use the Scanner class to read two numbers from the user.
+- **Input**: Use the Scanner class to read two numbers from the user.
 Operator: Prompt the user to enter an operator (+, -, *, or /).
 - **Calculation**: Based on the operator, perform the corresponding arithmetic operation (addition, subtraction, multiplication, or division).
 - **Output**: Display the result.
